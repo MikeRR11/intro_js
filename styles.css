@@ -1,0 +1,21 @@
+#boton1 {
+
+    color: white;
+    background-color: blue;
+
+}
+#text1 {
+    width: 40 px;
+    height: 80px;
+    font-size: 40 px;
+}
+
+div#resultado {
+    margin-top: 20px;
+    font-size: 18px;
+    padding: 10px;
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    width: fit-content;
+    margin: 20px auto;
+}
